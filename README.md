@@ -8,8 +8,8 @@
 + [Hash maps](https://en.wikipedia.org/wiki/Hash_table)
 + [Graphs](https://en.wikipedia.org/wiki/Graph_%28discrete_mathematics%29)
 + [Directed acrylic graphs](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
-  + - [x] [Shortest Paths Problem](https://www.youtube.com/watch?v=xhG2DyCX3uA&list=PL8B24C31197EC371C&index=17)
-  + - [x] [DAG's & topological sorting](https://www.youtube.com/watch?v=LOr_abIZL04)
+  + - [x] [Shortest Paths Problem](https://www.youtube.com/watch?v=xhG2DyCX3uA&list=PL8B24C31197EC371C&index=17)  
+  + - [x] [DAG's & topological sorting](https://www.youtube.com/watch?v=LOr_abIZL04)
 #### Cryptography
 + [public/private key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography)
 + [RSA](https://www.youtube.com/watch?v=vgTtHV04xRI)
