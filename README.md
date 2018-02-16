@@ -66,5 +66,12 @@
 + [Opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost)
 + [Auction theory](https://en.wikipedia.org/wiki/Auction_theory)
 ## Theoretical Foundations of Bitcoin
+Misc. links
+---  
+https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc  
 ...  
-https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc
+https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d  
+https://www.exeblock.com/how-to-learn-blockchain-development/  
+https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/  
+https://www.itcareerfinder.com/brain-food/blog/entry/how-to-get-started-on-a-blockchain-development-career.html
+
