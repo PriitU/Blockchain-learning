@@ -73,5 +73,5 @@ https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-developmen
 https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d  
 https://www.exeblock.com/how-to-learn-blockchain-development/  
 https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/  
-https://www.itcareerfinder.com/brain-food/blog/entry/how-to-get-started-on-a-blockchain-development-career.html
-
+https://www.itcareerfinder.com/brain-food/blog/entry/how-to-get-started-on-a-blockchain-development-career.html  
+https://www.quora.com/How-can-I-learn-blockchain-development
